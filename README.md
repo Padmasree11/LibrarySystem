@@ -22,6 +22,7 @@ To develop the Library Management System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+<img width="548" height="429" alt="usecase of library management" src="https://github.com/user-attachments/assets/35bd4c89-9246-48dc-a3f5-736e2498c4bd" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -70,6 +71,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+<img width="407" height="319" alt="Screenshot 2026-11-03 135512" src="https://github.com/user-attachments/assets/01655e5a-a551-4846-87de-740902f36451" />
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
