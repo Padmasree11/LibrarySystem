@@ -46,6 +46,7 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+<img width="710" height="486" alt="image" src="https://github.com/user-attachments/assets/509ed7b3-b7e6-4ac7-ae9b-3216ca2bef17" />
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -62,6 +63,7 @@ Create detailed charts that…
 
 
 # COMMUNICTION DIAGRAM:
+<img width="1197" height="945" alt="image" src="https://github.com/user-attachments/assets/a4512c66-f454-4878-b06b-f67aea65104c" />
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -71,7 +73,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
-<img width="407" height="319" alt="Screenshot 2026-11-03 135512" src="https://github.com/user-attachments/assets/01655e5a-a551-4846-87de-740902f36451" />
+<img width="1032" height="787" alt="image" src="https://github.com/user-attachments/assets/30480b82-b55e-42fb-a7d1-87f582ac19e5" />
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
